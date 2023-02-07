@@ -1,0 +1,6 @@
+C:\Users\José Mauro\source\repos\POOW2\Template\Template.Domain\bin\Debug\Template.Domain.dll
+C:\Users\José Mauro\source\repos\POOW2\Template\Template.Domain\bin\Debug\Template.Domain.pdb
+C:\Users\José Mauro\source\repos\POOW2\Template\Template.Domain\obj\Debug\Template.Domain.csproj.AssemblyReference.cache
+C:\Users\José Mauro\source\repos\POOW2\Template\Template.Domain\obj\Debug\Template.Domain.csproj.CoreCompileInputs.cache
+C:\Users\José Mauro\source\repos\POOW2\Template\Template.Domain\obj\Debug\Template.Domain.dll
+C:\Users\José Mauro\source\repos\POOW2\Template\Template.Domain\obj\Debug\Template.Domain.pdb

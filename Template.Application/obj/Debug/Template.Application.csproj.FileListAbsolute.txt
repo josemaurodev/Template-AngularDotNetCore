@@ -1,0 +1,6 @@
+C:\Users\José Mauro\source\repos\POOW2\Template\Template.Application\bin\Debug\Template.Application.dll
+C:\Users\José Mauro\source\repos\POOW2\Template\Template.Application\bin\Debug\Template.Application.pdb
+C:\Users\José Mauro\source\repos\POOW2\Template\Template.Application\obj\Debug\Template.Application.csproj.AssemblyReference.cache
+C:\Users\José Mauro\source\repos\POOW2\Template\Template.Application\obj\Debug\Template.Application.csproj.CoreCompileInputs.cache
+C:\Users\José Mauro\source\repos\POOW2\Template\Template.Application\obj\Debug\Template.Application.dll
+C:\Users\José Mauro\source\repos\POOW2\Template\Template.Application\obj\Debug\Template.Application.pdb
